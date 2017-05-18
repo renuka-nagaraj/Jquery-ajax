@@ -1,0 +1,61 @@
+<html>
+
+<head>
+    <title> Fetch data from JSON </title>
+    <link rel="stylesheet" href="css/Age.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="json.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+    <!--<a href="#" id="click">get json data</a>-->
+    <div class="container-fluid">
+        <nav class="navbar navbar-inverse">
+            <div class="container-fluid">
+                <div class="navbar-header head">
+                    <h1 id="head">Singlepage App</h1> </div>
+            </div>
+        </nav>
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-xs-4">
+                    <table id="table" class="table table-striped">
+                        <tr>
+                            <th>AgeGroup</th>
+                            <th>Literature Person</th>
+                            <th>Delete</th>
+                        </tr>
+                    </table>
+                </div>
+                <div id="graphWrap" class="col-xs-8">
+                    <h2 id="title">AgeGroup vs Literate Person</h2></div>
+                <div class="row">
+                    <div class="col-xs-4">
+                        <div class="form-group">
+                            <label for="usr">AgeGroup:</label>
+                            <input type="text" class="form-control" id="age">
+                            <label for="pwd">Literate:</label>
+                            <input type="Number" class="form-control" id="literate"> </div>
+                        <!--<button type="button" class="btn btn-success" id="button">Add</button>-->
+                        <input type="reset" value="Add" id="button"> </div>
+                </div>
+            </div>
+            <!--<p>AgeGroup:
+            <input type="text" id="age"> </p>
+        <p>LiteratePerson:
+            <input type="text" id="literate"> </p>
+        <p>
+            <button id="button">Add</button>
+        </p>-->
+        </div>
+    </div>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+    <!-- <script src="AgeScript.js"></script>-->
+</body>
+
+</html>

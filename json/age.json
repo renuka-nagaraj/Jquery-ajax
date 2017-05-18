@@ -1,0 +1,76 @@
+{
+  "index": [
+    {
+      "AgeGroup": "15",
+      "LiteratePerson": 234601584
+    },
+    {
+      "AgeGroup": "16",
+      "LiteratePerson": 221490568
+    },
+    {
+      "AgeGroup": "17",
+      "LiteratePerson": 191094808
+    },
+    {
+      "AgeGroup": "18",
+      "LiteratePerson": 241751000
+    },
+    {
+      "AgeGroup": "19",
+      "LiteratePerson": 180969664
+    },
+    {
+      "AgeGroup": "25-29",
+      "LiteratePerson": 765934784
+    },
+    {
+      "AgeGroup": "35-39",
+      "LiteratePerson": 545947664
+    },
+    {
+      "AgeGroup": "40-44",
+      "LiteratePerson": 429668184
+    },
+    {
+      "AgeGroup": "45-49",
+      "LiteratePerson": 346863328
+    },
+    {
+      "AgeGroup": "55-59",
+      "LiteratePerson": 196456792
+    },
+    {
+      "AgeGroup": "60-64",
+      "LiteratePerson": 161286736
+    },
+    {
+      "AgeGroup": "70-74",
+      "LiteratePerson": 68485640
+    },
+    {
+      "AgeGroup": "0",
+      "LiteratePerson": 27679600
+    },
+    {
+      "AgeGroup": "14",
+      "LiteratePerson": "14566768"
+    },
+    {
+      "AgeGroup": "2",
+      "LiteratePerson": "122334441"
+    },
+    {
+      "AgeGroup": "100",
+      "LiteratePerson": "123456"
+    },
+    {
+      "AgeGroup": "    24",
+      "LiteratePerson": "455435"
+    },
+    {
+      "AgeGroup": "12",
+      "LiteratePerson": "122222"
+    }
+  ]
+}
